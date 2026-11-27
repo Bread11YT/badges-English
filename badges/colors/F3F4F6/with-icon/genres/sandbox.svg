@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="28" viewBox="0 0 98 28" role="img" aria-label="Sandbox">
+  <title>Sandbox</title>
+  <rect width="98" height="28" rx="2" fill="#F3F4F6"/>
+  <g transform="translate(9.00 7.00) scale(0.5833)" fill="#1F1F1F" color="#1F1F1F"><path d="M12 2 3 7v10l9 5 9-5V7l-9-5zm0 2.3L18.7 8 12 11.7 5.3 8 12 4.3zM5 9.6l6 3.3v6.5l-6-3.3V9.6zm8 9.8v-6.5l6-3.3v6.5l-6 3.3z"/></g>
+  <text x="32" y="18" fill="#1F1F1F" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="10" font-weight="bold" textLength="53.9" lengthAdjust="spacing">SANDBOX</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113" height="28" viewBox="0 0 113 28" role="img" aria-label="Roguelike">
+  <title>Roguelike</title>
+  <rect width="113" height="28" rx="2" fill="#EA580C"/>
+  <g transform="translate(9.00 7.00) scale(0.5833)" fill="#FFFFFF" color="#FFFFFF"><path fill-rule="evenodd" d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zM8 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm8 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zM12 10.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zM8 14.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm8 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></g>
+  <text x="32" y="18" fill="#FFFFFF" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="10" font-weight="bold" textLength="69.3" lengthAdjust="spacing">ROGUELIKE</text>
+</svg>

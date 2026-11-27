@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="28" viewBox="0 0 121 28" role="img" aria-label="Open World">
+  <title>Open World</title>
+  <rect width="121" height="28" rx="2" fill="#16A34A"/>
+  <g transform="translate(9.00 7.00) scale(0.5833)" fill="#FFFFFF" color="#FFFFFF"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm0 2a8 8 0 1 1 0 16 8 8 0 0 1 0-16z" fill-rule="evenodd"/><path d="M16 8l-2.5 5.5L8 16l2.5-5.5z"/></g>
+  <text x="32" y="18" fill="#FFFFFF" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="10" font-weight="bold" textLength="77.0" lengthAdjust="spacing">OPEN WORLD</text>
+</svg>

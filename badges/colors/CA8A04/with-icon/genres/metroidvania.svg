@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="28" viewBox="0 0 136 28" role="img" aria-label="Metroidvania">
+  <title>Metroidvania</title>
+  <rect width="136" height="28" rx="2" fill="#CA8A04"/>
+  <g transform="translate(9.00 7.00) scale(0.5833)" fill="#FFFFFF" color="#FFFFFF"><path fill-rule="evenodd" d="M8 6a4 4 0 1 0 0 8 4 4 0 0 0 0-8zm0 2.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/><path d="M12 9h9v3h-2v3h-2v-3h-5z"/></g>
+  <text x="32" y="18" fill="#FFFFFF" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="10" font-weight="bold" textLength="92.4" lengthAdjust="spacing">METROIDVANIA</text>
+</svg>
