@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="28" viewBox="0 0 90 28" role="img" aria-label="Termux">
+  <title>Termux</title>
+  <rect width="90" height="28" rx="2" fill="#374151"/>
+  <g transform="translate(9.00 7.00) scale(0.5833)" fill="#FFFFFF" color="#FFFFFF"><path fill-rule="evenodd" d="M5 3.500h14a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-13a2 2 0 0 1 2-2zM7 8.500l5 3.500-5 3.500v-2.200L9.800 12 7 10.700zM13 14.500h4.500v1.800H13z"/></g>
+  <text x="32" y="18" fill="#FFFFFF" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="10" font-weight="bold" textLength="46.2" lengthAdjust="spacing">TERMUX</text>
+</svg>

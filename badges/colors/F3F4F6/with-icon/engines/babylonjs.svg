@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="28" viewBox="0 0 121 28" role="img" aria-label="Babylon.js">
+  <title>Babylon.js</title>
+  <rect width="121" height="28" rx="2" fill="#F3F4F6"/>
+  <g transform="translate(9.00 7.00) scale(0.5833)" fill="#1F1F1F" color="#1F1F1F"><path d="M12 0 1.607 6.002v12L12 24l10.393-6V6L19.14 4.123 16.01 5.93l3.252 1.879v8.384L12 20.387l-7.264-4.194V7.807l10.393-6zm0 8.244-3.254 1.879v3.754h.002v.004L12 15.758l3.252-1.877v-3.76z"/></g>
+  <text x="32" y="18" fill="#1F1F1F" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="10" font-weight="bold" textLength="77.0" lengthAdjust="spacing">BABYLON.JS</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="28" viewBox="0 0 82 28" role="img" aria-label="Godot">
+  <title>Godot</title>
+  <rect width="82" height="28" rx="2" fill="#374151"/>
+  <rect x="8" y="6" width="16" height="16" rx="3" fill="#FFFFFF" fill-opacity="0.2"/><text x="16" y="17.3" fill="#FFFFFF" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="8" font-weight="bold" text-anchor="middle">Gd</text>
+  <text x="32" y="18" fill="#FFFFFF" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="10" font-weight="bold" textLength="38.5" lengthAdjust="spacing">GODOT</text>
+</svg>

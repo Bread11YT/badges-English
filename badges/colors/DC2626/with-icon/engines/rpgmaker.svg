@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113" height="28" viewBox="0 0 113 28" role="img" aria-label="RPG Maker">
+  <title>RPG Maker</title>
+  <rect width="113" height="28" rx="2" fill="#DC2626"/>
+  <g transform="translate(9.00 7.00) scale(0.5833)" fill="#FFFFFF" color="#FFFFFF"><path stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M20 4l-9.500 9.500M20 4h-4.500M20 4v4.500"/><path stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M8.500 11.500l4 4M6 18l-2.500 2.500M7.500 14.500l-3 3"/><path stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M10 14l-3 3"/></g>
+  <text x="32" y="18" fill="#FFFFFF" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="10" font-weight="bold" textLength="69.3" lengthAdjust="spacing">RPG MAKER</text>
+</svg>

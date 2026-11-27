@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="28" viewBox="0 0 98 28" role="img" aria-label="Windows">
+  <title>Windows</title>
+  <rect width="98" height="28" rx="2" fill="#F3F4F6"/>
+  <g transform="translate(9.00 7.00) scale(0.5833)" fill="#1F1F1F" color="#1F1F1F"><path d="M0,0H11.377V11.372H0ZM12.623,0H24V11.372H12.623ZM0,12.623H11.377V24H0Zm12.623,0H24V24H12.623"/></g>
+  <text x="32" y="18" fill="#1F1F1F" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="10" font-weight="bold" textLength="53.9" lengthAdjust="spacing">WINDOWS</text>
+</svg>

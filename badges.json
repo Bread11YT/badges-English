@@ -1,0 +1,1508 @@
+{
+  "owner": "Bread11YT",
+  "repo": "badges",
+  "branch": "main",
+  "height": 28,
+  "categories": [
+    {
+      "name": "Языки",
+      "slug": "languages",
+      "items": [
+        {
+          "id": "python",
+          "label": "Python",
+          "color": "3A6F96",
+          "icon": "Py"
+        },
+        {
+          "id": "javascript",
+          "label": "JavaScript",
+          "color": "2A2B28",
+          "icon": "JS"
+        },
+        {
+          "id": "typescript",
+          "label": "TypeScript",
+          "color": "2F5F9E",
+          "icon": "TS"
+        },
+        {
+          "id": "java",
+          "label": "Java",
+          "color": "B8791C",
+          "icon": "Jv"
+        },
+        {
+          "id": "csharp",
+          "label": "C#",
+          "color": "2F7A31",
+          "icon": "C#"
+        },
+        {
+          "id": "cpp",
+          "label": "C++",
+          "color": "3D6AA8",
+          "icon": "C+"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "color": "4A5568",
+          "icon": "C"
+        },
+        {
+          "id": "go",
+          "label": "Go",
+          "color": "2C8FA8",
+          "icon": "Go"
+        },
+        {
+          "id": "rust",
+          "label": "Rust",
+          "color": "8A4B2D",
+          "icon": "Rs"
+        },
+        {
+          "id": "kotlin",
+          "label": "Kotlin",
+          "color": "7F52B8",
+          "icon": "Kt"
+        },
+        {
+          "id": "swift",
+          "label": "Swift",
+          "color": "C4572F",
+          "icon": "Sw"
+        },
+        {
+          "id": "php",
+          "label": "PHP",
+          "color": "6A6FA8",
+          "icon": "Ph"
+        },
+        {
+          "id": "lua",
+          "label": "Lua",
+          "color": "2B3A7A",
+          "icon": "Lu"
+        },
+        {
+          "id": "gdscript",
+          "label": "GDScript",
+          "color": "4A7FA5",
+          "icon": "GD"
+        },
+        {
+          "id": "html5",
+          "label": "HTML5",
+          "color": "B8563A",
+          "icon": "H5"
+        },
+        {
+          "id": "css3",
+          "label": "CSS3",
+          "color": "3A6FB8",
+          "icon": "C3"
+        },
+        {
+          "id": "sql",
+          "label": "SQL",
+          "color": "4B5D6B",
+          "icon": "Sq"
+        },
+        {
+          "id": "bash",
+          "label": "Bash",
+          "color": "3A4A3A",
+          "icon": "Sh"
+        },
+        {
+          "id": "ruby",
+          "label": "Ruby",
+          "color": "A83A3A",
+          "icon": "Rb"
+        },
+        {
+          "id": "dart",
+          "label": "Dart",
+          "color": "2E8FB0",
+          "icon": "Dt"
+        },
+        {
+          "id": "r",
+          "label": "R",
+          "color": "3A6A9E",
+          "icon": "R"
+        },
+        {
+          "id": "scala",
+          "label": "Scala",
+          "color": "B03A3A",
+          "icon": "Sc"
+        },
+        {
+          "id": "haskell",
+          "label": "Haskell",
+          "color": "5A4A8A",
+          "icon": "Hs"
+        },
+        {
+          "id": "elixir",
+          "label": "Elixir",
+          "color": "5A3A7A",
+          "icon": "Ex"
+        },
+        {
+          "id": "zig",
+          "label": "Zig",
+          "color": "C48A2A",
+          "icon": "Zg"
+        },
+        {
+          "id": "julia",
+          "label": "Julia",
+          "color": "7A4A9A",
+          "icon": "Jl"
+        },
+        {
+          "id": "perl",
+          "label": "Perl",
+          "color": "3A5A7A",
+          "icon": "Pl"
+        },
+        {
+          "id": "assembly",
+          "label": "Assembly",
+          "color": "4A4A4A",
+          "icon": "As"
+        },
+        {
+          "id": "matlab",
+          "label": "MATLAB",
+          "color": "C4602A",
+          "icon": "M"
+        },
+        {
+          "id": "powershell",
+          "label": "PowerShell",
+          "color": "2F4F8A",
+          "icon": "PS"
+        },
+        {
+          "id": "markdown",
+          "label": "Markdown",
+          "color": "3A3A3A",
+          "icon": "Md"
+        },
+        {
+          "id": "yaml",
+          "label": "YAML",
+          "color": "8A3A3A",
+          "icon": "Ym"
+        },
+        {
+          "id": "json",
+          "label": "JSON",
+          "color": "3A3A3A",
+          "icon": "Js"
+        }
+      ]
+    },
+    {
+      "name": "Игры",
+      "slug": "games",
+      "items": [
+        {
+          "id": "blender",
+          "label": "Blender",
+          "color": "B8742A",
+          "icon": "Bl"
+        },
+        {
+          "id": "itch",
+          "label": "itch.io",
+          "color": "BF5B5B",
+          "icon": "It"
+        },
+        {
+          "id": "steam",
+          "label": "Steam",
+          "color": "1B2838",
+          "icon": "St"
+        },
+        {
+          "id": "minecraft",
+          "label": "Minecraft",
+          "color": "5A7A3A",
+          "icon": "Mc"
+        },
+        {
+          "id": "roblox",
+          "label": "Roblox",
+          "color": "B03A3A",
+          "icon": "Rx"
+        },
+        {
+          "id": "aseprite",
+          "label": "Aseprite",
+          "color": "3A6A9A",
+          "icon": "Ap"
+        },
+        {
+          "id": "tiled",
+          "label": "Tiled",
+          "color": "3A8A6A",
+          "icon": "Td"
+        },
+        {
+          "id": "fabric",
+          "label": "Fabric",
+          "color": "8A7A5A",
+          "icon": "Fb"
+        },
+        {
+          "id": "forge",
+          "label": "Forge",
+          "color": "B8602A",
+          "icon": "Fo"
+        },
+        {
+          "id": "spigot",
+          "label": "Spigot",
+          "color": "C48A2A",
+          "icon": "Sp"
+        },
+        {
+          "id": "gradle",
+          "label": "Gradle",
+          "color": "2A6A7A",
+          "icon": "Gr"
+        },
+        {
+          "id": "maven",
+          "label": "Maven",
+          "color": "A83A5A",
+          "icon": "Mv"
+        },
+        {
+          "id": "epic-games",
+          "label": "Epic Games",
+          "color": "2A2A2A",
+          "icon": "Ep"
+        },
+        {
+          "id": "gamejolt",
+          "label": "Game Jolt",
+          "color": "3A7A3A",
+          "icon": "GJ"
+        }
+      ]
+    },
+    {
+      "name": "Движки",
+      "slug": "engines",
+      "items": [
+        {
+          "id": "unity",
+          "label": "Unity",
+          "color": "1F1F1F",
+          "icon": "Un"
+        },
+        {
+          "id": "unreal",
+          "label": "Unreal Engine",
+          "color": "2A2A2A",
+          "icon": "Ue"
+        },
+        {
+          "id": "godot",
+          "label": "Godot",
+          "color": "CFD8E0",
+          "icon": "Gd"
+        },
+        {
+          "id": "gamemaker",
+          "label": "GameMaker",
+          "color": "3A3A3A",
+          "icon": "GM"
+        },
+        {
+          "id": "phaser",
+          "label": "Phaser",
+          "color": "7A3AA0",
+          "icon": "Ph"
+        },
+        {
+          "id": "threejs",
+          "label": "Three.js",
+          "color": "2A2A2A",
+          "icon": "3J"
+        },
+        {
+          "id": "pygame",
+          "label": "Pygame",
+          "color": "3A7A4A",
+          "icon": "Pg"
+        },
+        {
+          "id": "cocos",
+          "label": "Cocos",
+          "color": "3A8AB0",
+          "icon": "Co"
+        },
+        {
+          "id": "defold",
+          "label": "Defold",
+          "color": "C4572F",
+          "icon": "Df"
+        },
+        {
+          "id": "rpgmaker",
+          "label": "RPG Maker",
+          "color": "3A5AA8",
+          "icon": "RM"
+        },
+        {
+          "id": "construct",
+          "label": "Construct",
+          "color": "2A8A7A",
+          "icon": "Cn"
+        },
+        {
+          "id": "bevy",
+          "label": "Bevy",
+          "color": "2A2A2A",
+          "icon": "Bv"
+        },
+        {
+          "id": "libgdx",
+          "label": "libGDX",
+          "color": "B03A3A",
+          "icon": "LG"
+        },
+        {
+          "id": "monogame",
+          "label": "MonoGame",
+          "color": "C4702A",
+          "icon": "Mg"
+        },
+        {
+          "id": "love",
+          "label": "LÖVE",
+          "color": "C4507A",
+          "icon": "LV"
+        },
+        {
+          "id": "renpy",
+          "label": "Ren'Py",
+          "color": "8A4AB0",
+          "icon": "Rp"
+        },
+        {
+          "id": "cryengine",
+          "label": "CryEngine",
+          "color": "2A2A2A",
+          "icon": "Cr"
+        },
+        {
+          "id": "babylonjs",
+          "label": "Babylon.js",
+          "color": "B03A3A",
+          "icon": "Bb"
+        },
+        {
+          "id": "playcanvas",
+          "label": "PlayCanvas",
+          "color": "C4702A",
+          "icon": "PC"
+        }
+      ]
+    },
+    {
+      "name": "Веб",
+      "slug": "web",
+      "items": [
+        {
+          "id": "react",
+          "label": "React",
+          "color": "2E7F96",
+          "icon": "Re"
+        },
+        {
+          "id": "vue",
+          "label": "Vue",
+          "color": "3A9B68",
+          "icon": "Vu"
+        },
+        {
+          "id": "nodejs",
+          "label": "Node.js",
+          "color": "4A7A3A",
+          "icon": "No"
+        },
+        {
+          "id": "django",
+          "label": "Django",
+          "color": "1F4A3A",
+          "icon": "Dj"
+        },
+        {
+          "id": "fastapi",
+          "label": "FastAPI",
+          "color": "2E8A7A",
+          "icon": "Fa"
+        },
+        {
+          "id": "tailwind",
+          "label": "Tailwind CSS",
+          "color": "2E8FA8",
+          "icon": "Tw"
+        },
+        {
+          "id": "flutter",
+          "label": "Flutter",
+          "color": "3A8FC4",
+          "icon": "Fl"
+        },
+        {
+          "id": "angular",
+          "label": "Angular",
+          "color": "B03A4A",
+          "icon": "Ng"
+        },
+        {
+          "id": "svelte",
+          "label": "Svelte",
+          "color": "C4502A",
+          "icon": "Sv"
+        },
+        {
+          "id": "nextjs",
+          "label": "Next.js",
+          "color": "1F1F1F",
+          "icon": "Nx"
+        },
+        {
+          "id": "nuxt",
+          "label": "Nuxt",
+          "color": "2A9A6A",
+          "icon": "Nu"
+        },
+        {
+          "id": "express",
+          "label": "Express",
+          "color": "3A3A3A",
+          "icon": "Ex"
+        },
+        {
+          "id": "spring",
+          "label": "Spring",
+          "color": "4A8A3A",
+          "icon": "Sp"
+        },
+        {
+          "id": "laravel",
+          "label": "Laravel",
+          "color": "B03A3A",
+          "icon": "Lv"
+        },
+        {
+          "id": "bootstrap",
+          "label": "Bootstrap",
+          "color": "6A3A9A",
+          "icon": "Bs"
+        },
+        {
+          "id": "sass",
+          "label": "Sass",
+          "color": "B04A8A",
+          "icon": "Ss"
+        },
+        {
+          "id": "vite",
+          "label": "Vite",
+          "color": "6A4AB0",
+          "icon": "Vi"
+        },
+        {
+          "id": "webpack",
+          "label": "Webpack",
+          "color": "3A7AA8",
+          "icon": "Wp"
+        },
+        {
+          "id": "npm",
+          "label": "npm",
+          "color": "A83A3A",
+          "icon": "np"
+        },
+        {
+          "id": "jquery",
+          "label": "jQuery",
+          "color": "2A5A9A",
+          "icon": "jQ"
+        },
+        {
+          "id": "electron",
+          "label": "Electron",
+          "color": "3A5A6A",
+          "icon": "El"
+        },
+        {
+          "id": "deno",
+          "label": "Deno",
+          "color": "2A2A2A",
+          "icon": "Dn"
+        },
+        {
+          "id": "bun",
+          "label": "Bun",
+          "color": "E8B84A",
+          "icon": "Bn"
+        },
+        {
+          "id": "websockets",
+          "label": "WebSockets",
+          "color": "3A5A8A",
+          "icon": "WS"
+        },
+        {
+          "id": "graphql",
+          "label": "GraphQL",
+          "color": "B03A8A",
+          "icon": "GQ"
+        },
+        {
+          "id": "rest-api",
+          "label": "REST API",
+          "color": "3A6A8A",
+          "icon": "RA"
+        },
+        {
+          "id": "wordpress",
+          "label": "WordPress",
+          "color": "2A5A7A",
+          "icon": "Wp"
+        }
+      ]
+    },
+    {
+      "name": "Мобильное и мессенджеры",
+      "slug": "mobile",
+      "items": [
+        {
+          "id": "android-studio",
+          "label": "Android Studio",
+          "color": "3A9B68",
+          "icon": "AS"
+        },
+        {
+          "id": "telegram",
+          "label": "Telegram",
+          "color": "2D84B0",
+          "icon": "Tg"
+        },
+        {
+          "id": "discord",
+          "label": "Discord",
+          "color": "5865A8",
+          "icon": "Dc"
+        },
+        {
+          "id": "android",
+          "label": "Android",
+          "color": "3A9B68",
+          "icon": "An"
+        },
+        {
+          "id": "ios",
+          "label": "iOS",
+          "color": "2A2A2A",
+          "icon": "iO"
+        },
+        {
+          "id": "whatsapp",
+          "label": "WhatsApp",
+          "color": "2A9A5A",
+          "icon": "Wa"
+        },
+        {
+          "id": "signal",
+          "label": "Signal",
+          "color": "3A5AB0",
+          "icon": "Sg"
+        },
+        {
+          "id": "slack",
+          "label": "Slack",
+          "color": "6A2A6A",
+          "icon": "Sl"
+        },
+        {
+          "id": "matrix",
+          "label": "Matrix",
+          "color": "2A2A2A",
+          "icon": "Mx"
+        },
+        {
+          "id": "googleplay",
+          "label": "Google Play",
+          "color": "3A8A5A",
+          "icon": "GP"
+        },
+        {
+          "id": "appstore",
+          "label": "App Store",
+          "color": "3A7AC4",
+          "icon": "AS"
+        },
+        {
+          "id": "rustore",
+          "label": "RuStore",
+          "color": "3A5AB0",
+          "icon": "RS"
+        }
+      ]
+    },
+    {
+      "name": "Инструменты и хостинг",
+      "slug": "tools",
+      "items": [
+        {
+          "id": "git",
+          "label": "Git",
+          "color": "C4572F",
+          "icon": "Gt"
+        },
+        {
+          "id": "github",
+          "label": "GitHub",
+          "color": "1F1F1F",
+          "icon": "GH"
+        },
+        {
+          "id": "gitlab",
+          "label": "GitLab",
+          "color": "1F1F1F",
+          "icon": "GL"
+        },
+        {
+          "id": "docker",
+          "label": "Docker",
+          "color": "2F7FB8",
+          "icon": "Dk"
+        },
+        {
+          "id": "vscode",
+          "label": "VS Code",
+          "color": "2A6FB0",
+          "icon": "VS"
+        },
+        {
+          "id": "notion",
+          "label": "Notion",
+          "color": "1F1F1F",
+          "icon": "N"
+        },
+        {
+          "id": "figma",
+          "label": "Figma",
+          "color": "6A3FB8",
+          "icon": "Fg"
+        },
+        {
+          "id": "linux",
+          "label": "Linux",
+          "color": "3A3A3A",
+          "icon": "Lx"
+        },
+        {
+          "id": "cloudflare",
+          "label": "Cloudflare",
+          "color": "BD7430",
+          "icon": "CF"
+        },
+        {
+          "id": "vercel",
+          "label": "Vercel",
+          "color": "1F1F1F",
+          "icon": "Vc"
+        },
+        {
+          "id": "postman",
+          "label": "Postman",
+          "color": "D4622A",
+          "icon": "Pm"
+        },
+        {
+          "id": "jira",
+          "label": "Jira",
+          "color": "2A6AC4",
+          "icon": "Ji"
+        },
+        {
+          "id": "trello",
+          "label": "Trello",
+          "color": "2A6AB0",
+          "icon": "Tr"
+        },
+        {
+          "id": "obsidian",
+          "label": "Obsidian",
+          "color": "6A3AB0",
+          "icon": "Ob"
+        },
+        {
+          "id": "jupyter",
+          "label": "Jupyter",
+          "color": "C4702A",
+          "icon": "Jp"
+        },
+        {
+          "id": "supabase",
+          "label": "Supabase",
+          "color": "2A8A5A",
+          "icon": "Su"
+        },
+        {
+          "id": "ffmpeg",
+          "label": "FFmpeg",
+          "color": "2A7A4A",
+          "icon": "FF"
+        },
+        {
+          "id": "curl",
+          "label": "cURL",
+          "color": "3A5A7A",
+          "icon": "cU"
+        },
+        {
+          "id": "wireshark",
+          "label": "Wireshark",
+          "color": "2A6AB0",
+          "icon": "Ws"
+        },
+        {
+          "id": "insomnia",
+          "label": "Insomnia",
+          "color": "5A3AB0",
+          "icon": "In"
+        },
+        {
+          "id": "swagger",
+          "label": "Swagger",
+          "color": "4A8A2A",
+          "icon": "Sw"
+        },
+        {
+          "id": "sentry",
+          "label": "Sentry",
+          "color": "4A3A6A",
+          "icon": "Se"
+        },
+        {
+          "id": "grafana",
+          "label": "Grafana",
+          "color": "C4602A",
+          "icon": "Gf"
+        }
+      ]
+    },
+    {
+      "name": "Редакторы и IDE",
+      "slug": "editors",
+      "items": [
+        {
+          "id": "intellij",
+          "label": "IntelliJ IDEA",
+          "color": "B03A6A",
+          "icon": "IJ"
+        },
+        {
+          "id": "pycharm",
+          "label": "PyCharm",
+          "color": "2A8A5A",
+          "icon": "PC"
+        },
+        {
+          "id": "visual-studio",
+          "label": "Visual Studio",
+          "color": "5A3AB0",
+          "icon": "VS"
+        },
+        {
+          "id": "vim",
+          "label": "Vim",
+          "color": "3A7A3A",
+          "icon": "Vi"
+        },
+        {
+          "id": "neovim",
+          "label": "Neovim",
+          "color": "3A7A5A",
+          "icon": "Nv"
+        },
+        {
+          "id": "sublime",
+          "label": "Sublime Text",
+          "color": "C4702A",
+          "icon": "St"
+        },
+        {
+          "id": "eclipse",
+          "label": "Eclipse",
+          "color": "3A3A6A",
+          "icon": "Ec"
+        },
+        {
+          "id": "rider",
+          "label": "Rider",
+          "color": "B03A4A",
+          "icon": "Rd"
+        },
+        {
+          "id": "webstorm",
+          "label": "WebStorm",
+          "color": "2A8AB0",
+          "icon": "WS"
+        },
+        {
+          "id": "clion",
+          "label": "CLion",
+          "color": "2A8A7A",
+          "icon": "CL"
+        },
+        {
+          "id": "notepadpp",
+          "label": "Notepad++",
+          "color": "4A8A2A",
+          "icon": "N+"
+        },
+        {
+          "id": "zed",
+          "label": "Zed",
+          "color": "2A2A2A",
+          "icon": "Zd"
+        }
+      ]
+    },
+    {
+      "name": "ИИ",
+      "slug": "ai",
+      "items": [
+        {
+          "id": "chatbox",
+          "label": "Chat Box",
+          "color": "8E44AD",
+          "icon": "Cb"
+        },
+        {
+          "id": "ollama",
+          "label": "Ollama",
+          "color": "1F1F1F",
+          "icon": "Ol"
+        },
+        {
+          "id": "freellmapi",
+          "label": "Free LLM API",
+          "color": "3A9B68",
+          "icon": "FA"
+        },
+        {
+          "id": "claude",
+          "label": "Claude",
+          "color": "C4733A",
+          "icon": "Cl"
+        },
+        {
+          "id": "huggingface",
+          "label": "Hugging Face",
+          "color": "C49A2A",
+          "icon": "HF"
+        },
+        {
+          "id": "pytorch",
+          "label": "PyTorch",
+          "color": "C4572F",
+          "icon": "Pt"
+        },
+        {
+          "id": "chatgpt",
+          "label": "ChatGPT",
+          "color": "3A9B80",
+          "icon": "GP"
+        },
+        {
+          "id": "gemini",
+          "label": "Gemini",
+          "color": "3A6AC4",
+          "icon": "Gm"
+        },
+        {
+          "id": "mistral",
+          "label": "Mistral",
+          "color": "C4702A",
+          "icon": "Mi"
+        },
+        {
+          "id": "deepseek",
+          "label": "DeepSeek",
+          "color": "3A5AC4",
+          "icon": "DS"
+        },
+        {
+          "id": "qwen",
+          "label": "Qwen",
+          "color": "5A3AB0",
+          "icon": "Qw"
+        },
+        {
+          "id": "lmstudio",
+          "label": "LM Studio",
+          "color": "3A5A8A",
+          "icon": "LM"
+        },
+        {
+          "id": "tensorflow",
+          "label": "TensorFlow",
+          "color": "C4702A",
+          "icon": "TF"
+        },
+        {
+          "id": "stable-diffusion",
+          "label": "Stable Diffusion",
+          "color": "6A3A9A",
+          "icon": "SD"
+        },
+        {
+          "id": "openrouter",
+          "label": "OpenRouter",
+          "color": "3A3A5A",
+          "icon": "OR"
+        },
+        {
+          "id": "groq",
+          "label": "Groq",
+          "color": "C4502A",
+          "icon": "Gq"
+        },
+        {
+          "id": "perplexity",
+          "label": "Perplexity",
+          "color": "2A7A8A",
+          "icon": "Px"
+        },
+        {
+          "id": "copilot",
+          "label": "Copilot",
+          "color": "3A3A5A",
+          "icon": "Co"
+        },
+        {
+          "id": "cursor",
+          "label": "Cursor",
+          "color": "2A2A2A",
+          "icon": "Cu"
+        },
+        {
+          "id": "langchain",
+          "label": "LangChain",
+          "color": "2A7A5A",
+          "icon": "LC"
+        },
+        {
+          "id": "numpy",
+          "label": "NumPy",
+          "color": "3A6A9A",
+          "icon": "Np"
+        },
+        {
+          "id": "pandas",
+          "label": "Pandas",
+          "color": "3A2A6A",
+          "icon": "Pd"
+        },
+        {
+          "id": "opencv",
+          "label": "OpenCV",
+          "color": "2A7A3A",
+          "icon": "CV"
+        }
+      ]
+    },
+    {
+      "name": "Базы данных",
+      "slug": "databases",
+      "items": [
+        {
+          "id": "postgresql",
+          "label": "PostgreSQL",
+          "color": "3A5F8A",
+          "icon": "Pg"
+        },
+        {
+          "id": "mysql",
+          "label": "MySQL",
+          "color": "3A6F8A",
+          "icon": "My"
+        },
+        {
+          "id": "sqlite",
+          "label": "SQLite",
+          "color": "3A7AA0",
+          "icon": "Sl"
+        },
+        {
+          "id": "mongodb",
+          "label": "MongoDB",
+          "color": "3A8A3A",
+          "icon": "Mg"
+        },
+        {
+          "id": "redis",
+          "label": "Redis",
+          "color": "B83A3A",
+          "icon": "Rd"
+        },
+        {
+          "id": "firebase",
+          "label": "Firebase",
+          "color": "C4902A",
+          "icon": "Fb"
+        },
+        {
+          "id": "mariadb",
+          "label": "MariaDB",
+          "color": "3A5A7A",
+          "icon": "Mr"
+        },
+        {
+          "id": "elasticsearch",
+          "label": "Elasticsearch",
+          "color": "2A8AA0",
+          "icon": "Es"
+        },
+        {
+          "id": "neo4j",
+          "label": "Neo4j",
+          "color": "3A6AA0",
+          "icon": "N4"
+        },
+        {
+          "id": "cassandra",
+          "label": "Cassandra",
+          "color": "3A7AA0",
+          "icon": "Ca"
+        },
+        {
+          "id": "dynamodb",
+          "label": "DynamoDB",
+          "color": "3A5AA0",
+          "icon": "Dy"
+        },
+        {
+          "id": "clickhouse",
+          "label": "ClickHouse",
+          "color": "C4A02A",
+          "icon": "CH"
+        }
+      ]
+    },
+    {
+      "name": "Облака и DevOps",
+      "slug": "devops",
+      "items": [
+        {
+          "id": "aws",
+          "label": "AWS",
+          "color": "C4802A",
+          "icon": "AW"
+        },
+        {
+          "id": "azure",
+          "label": "Azure",
+          "color": "2A6AB0",
+          "icon": "Az"
+        },
+        {
+          "id": "gcp",
+          "label": "Google Cloud",
+          "color": "3A6AC4",
+          "icon": "GC"
+        },
+        {
+          "id": "digitalocean",
+          "label": "DigitalOcean",
+          "color": "2A6AC4",
+          "icon": "DO"
+        },
+        {
+          "id": "heroku",
+          "label": "Heroku",
+          "color": "5A3AA0",
+          "icon": "He"
+        },
+        {
+          "id": "netlify",
+          "label": "Netlify",
+          "color": "2A8A8A",
+          "icon": "Nl"
+        },
+        {
+          "id": "kubernetes",
+          "label": "Kubernetes",
+          "color": "2A5AB0",
+          "icon": "K8"
+        },
+        {
+          "id": "terraform",
+          "label": "Terraform",
+          "color": "5A3AB0",
+          "icon": "Tf"
+        },
+        {
+          "id": "nginx",
+          "label": "Nginx",
+          "color": "2A8A3A",
+          "icon": "Nx"
+        },
+        {
+          "id": "apache",
+          "label": "Apache",
+          "color": "B03A4A",
+          "icon": "Ap"
+        },
+        {
+          "id": "jenkins",
+          "label": "Jenkins",
+          "color": "B03A3A",
+          "icon": "Jk"
+        },
+        {
+          "id": "github-actions",
+          "label": "GitHub Actions",
+          "color": "2A5AB0",
+          "icon": "GA"
+        },
+        {
+          "id": "github-pages",
+          "label": "GitHub Pages",
+          "color": "2A2A2A",
+          "icon": "GP"
+        },
+        {
+          "id": "render",
+          "label": "Render",
+          "color": "2A2A2A",
+          "icon": "Rn"
+        },
+        {
+          "id": "railway",
+          "label": "Railway",
+          "color": "3A3A5A",
+          "icon": "Ry"
+        },
+        {
+          "id": "hetzner",
+          "label": "Hetzner",
+          "color": "B03A3A",
+          "icon": "Hz"
+        },
+        {
+          "id": "ansible",
+          "label": "Ansible",
+          "color": "2A2A2A",
+          "icon": "Ab"
+        }
+      ]
+    },
+    {
+      "name": "ОС и железо",
+      "slug": "os-hardware",
+      "items": [
+        {
+          "id": "windows",
+          "label": "Windows",
+          "color": "2A6AB0",
+          "icon": "Wi"
+        },
+        {
+          "id": "macos",
+          "label": "macOS",
+          "color": "3A3A3A",
+          "icon": "Mc"
+        },
+        {
+          "id": "ubuntu",
+          "label": "Ubuntu",
+          "color": "C4502A",
+          "icon": "Ub"
+        },
+        {
+          "id": "arch",
+          "label": "Arch Linux",
+          "color": "2A7AA8",
+          "icon": "Ar"
+        },
+        {
+          "id": "debian",
+          "label": "Debian",
+          "color": "A83A5A",
+          "icon": "Db"
+        },
+        {
+          "id": "fedora",
+          "label": "Fedora",
+          "color": "3A5AA0",
+          "icon": "Fe"
+        },
+        {
+          "id": "raspberry-pi",
+          "label": "Raspberry Pi",
+          "color": "A83A4A",
+          "icon": "Rp"
+        },
+        {
+          "id": "arduino",
+          "label": "Arduino",
+          "color": "2A8A8A",
+          "icon": "Ad"
+        },
+        {
+          "id": "esp32",
+          "label": "ESP32",
+          "color": "B03A3A",
+          "icon": "ES"
+        },
+        {
+          "id": "nvidia",
+          "label": "NVIDIA",
+          "color": "4A8A2A",
+          "icon": "Nv"
+        },
+        {
+          "id": "wsl",
+          "label": "WSL",
+          "color": "3A3A3A",
+          "icon": "WS"
+        },
+        {
+          "id": "termux",
+          "label": "Termux",
+          "color": "2A2A2A",
+          "icon": "Tx"
+        }
+      ]
+    },
+    {
+      "name": "Дизайн и медиа",
+      "slug": "design-media",
+      "items": [
+        {
+          "id": "photoshop",
+          "label": "Photoshop",
+          "color": "2A5AA8",
+          "icon": "Ps"
+        },
+        {
+          "id": "illustrator",
+          "label": "Illustrator",
+          "color": "C4702A",
+          "icon": "Ai"
+        },
+        {
+          "id": "aftereffects",
+          "label": "After Effects",
+          "color": "5A3AA0",
+          "icon": "Ae"
+        },
+        {
+          "id": "premiere",
+          "label": "Premiere Pro",
+          "color": "5A3A9A",
+          "icon": "Pr"
+        },
+        {
+          "id": "davinci",
+          "label": "DaVinci Resolve",
+          "color": "3A3A3A",
+          "icon": "DR"
+        },
+        {
+          "id": "krita",
+          "label": "Krita",
+          "color": "3A6AB0",
+          "icon": "Kr"
+        },
+        {
+          "id": "gimp",
+          "label": "GIMP",
+          "color": "6A5A3A",
+          "icon": "Gi"
+        },
+        {
+          "id": "inkscape",
+          "label": "Inkscape",
+          "color": "3A3A3A",
+          "icon": "Ik"
+        },
+        {
+          "id": "canva",
+          "label": "Canva",
+          "color": "2A8AC4",
+          "icon": "Cv"
+        },
+        {
+          "id": "obs",
+          "label": "OBS Studio",
+          "color": "2A2A2A",
+          "icon": "OB"
+        },
+        {
+          "id": "audacity",
+          "label": "Audacity",
+          "color": "2A5AB0",
+          "icon": "Au"
+        },
+        {
+          "id": "fl-studio",
+          "label": "FL Studio",
+          "color": "C4702A",
+          "icon": "FL"
+        },
+        {
+          "id": "lmms",
+          "label": "LMMS",
+          "color": "3A7A3A",
+          "icon": "LM"
+        },
+        {
+          "id": "capcut",
+          "label": "CapCut",
+          "color": "2A2A2A",
+          "icon": "CC"
+        }
+      ]
+    },
+    {
+      "name": "Платформы и соцсети",
+      "slug": "platforms",
+      "items": [
+        {
+          "id": "youtube",
+          "label": "YouTube",
+          "color": "B02A2A",
+          "icon": "YT"
+        },
+        {
+          "id": "twitch",
+          "label": "Twitch",
+          "color": "6A3AB0",
+          "icon": "Tw"
+        },
+        {
+          "id": "x",
+          "label": "X",
+          "color": "1F1F1F",
+          "icon": "X"
+        },
+        {
+          "id": "reddit",
+          "label": "Reddit",
+          "color": "C4502A",
+          "icon": "Rd"
+        },
+        {
+          "id": "vk",
+          "label": "VK",
+          "color": "2A5AB0",
+          "icon": "VK"
+        },
+        {
+          "id": "boosty",
+          "label": "Boosty",
+          "color": "C4602A",
+          "icon": "Bo"
+        },
+        {
+          "id": "patreon",
+          "label": "Patreon",
+          "color": "C4502A",
+          "icon": "Pa"
+        },
+        {
+          "id": "kofi",
+          "label": "Ko-fi",
+          "color": "2A8AC4",
+          "icon": "Kf"
+        },
+        {
+          "id": "linkedin",
+          "label": "LinkedIn",
+          "color": "2A5AA8",
+          "icon": "in"
+        },
+        {
+          "id": "tiktok",
+          "label": "TikTok",
+          "color": "2A2A2A",
+          "icon": "Tk"
+        },
+        {
+          "id": "instagram",
+          "label": "Instagram",
+          "color": "B03A7A",
+          "icon": "Ig"
+        },
+        {
+          "id": "gmail",
+          "label": "Gmail",
+          "color": "B03A3A",
+          "icon": "Gm"
+        },
+        {
+          "id": "gumroad",
+          "label": "Gumroad",
+          "color": "B03A8A",
+          "icon": "Gu"
+        },
+        {
+          "id": "steam-workshop",
+          "label": "Steam Workshop",
+          "color": "1B2838",
+          "icon": "SW"
+        },
+        {
+          "id": "stackoverflow",
+          "label": "Stack Overflow",
+          "color": "C4702A",
+          "icon": "SO"
+        },
+        {
+          "id": "devto",
+          "label": "DEV",
+          "color": "1F1F1F",
+          "icon": "DV"
+        },
+        {
+          "id": "habr",
+          "label": "Habr",
+          "color": "3A6A8A",
+          "icon": "Hb"
+        },
+        {
+          "id": "curseforge",
+          "label": "CurseForge",
+          "color": "C4502A",
+          "icon": "CF"
+        },
+        {
+          "id": "modrinth",
+          "label": "Modrinth",
+          "color": "2A9A5A",
+          "icon": "Mo"
+        }
+      ]
+    }
+  ]
+}

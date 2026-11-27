@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113" height="28" viewBox="0 0 113 28" role="img" aria-label="Construct">
+  <title>Construct</title>
+  <rect width="113" height="28" rx="2" fill="#EA580C"/>
+  <g transform="translate(9.00 7.00) scale(0.5833)" fill="#FFFFFF" color="#FFFFFF"><path stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M18 6.500A8 8 0 1 0 18 17.500"/><rect x="10" y="10" width="4" height="4" fill="currentColor"/></g>
+  <text x="32" y="18" fill="#FFFFFF" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="10" font-weight="bold" textLength="69.3" lengthAdjust="spacing">CONSTRUCT</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="28" viewBox="0 0 90 28" role="img" aria-label="Neovim">
+  <title>Neovim</title>
+  <rect width="90" height="28" rx="2" fill="#F3F4F6"/>
+  <g transform="translate(9.00 7.00) scale(0.5833)" fill="#1F1F1F" color="#1F1F1F"><path d="M2.214 4.954v13.615L7.655 24V10.314L3.312 3.845 2.214 4.954zm4.999 17.98l-4.557-4.548V5.136l.59-.596 3.967 5.908v12.485zm14.573-4.457l-.862.937-4.24-6.376V0l5.068 5.092.034 13.385zM7.431.001l12.998 19.835-3.637 3.637L3.787 3.683 7.43 0z"/></g>
+  <text x="32" y="18" fill="#1F1F1F" font-family="Verdana,'DejaVu Sans',Geneva,sans-serif" font-size="10" font-weight="bold" textLength="46.2" lengthAdjust="spacing">NEOVIM</text>
+</svg>
