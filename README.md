@@ -9,7 +9,7 @@ These are plain SVG files: they live in the repository, don't depend on shields.
 
 ## How to use
 
-1. **The easiest way:** open the [gallery page](https://bread11yt.github.io/badges/), pick a variant (with icons or with letters), click a badge, and the code is copied to your clipboard. Paste it into your README.
+1. **The easiest way:** open the [gallery page](https://bread11yt.github.io/badges-English/), pick a variant (with icons or with letters), click a badge, and the code is copied to your clipboard. Paste it into your README.
 2. **Via this README:** browse the badges in the tables below and copy a category's code (each category has collapsible code blocks: one badge per line, with a copy button in the corner of the block). Just delete any extra lines after pasting.
 3. **Directly:** a badge link looks like `https://raw.githubusercontent.com/Bread11YT/badges/main/badges/VARIANT/CATEGORY/NAME.svg`, where VARIANT is `with-icon` or `letters`.
 
