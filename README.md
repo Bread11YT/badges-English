@@ -1,9 +1,9 @@
 # README Badges
 
-**262 ready-made badges** in one style, each available in two variants:
+**287 ready-made badges** in one style, each available in two variants:
 
-- **With icon**: the real technology logo (currently 250 badges have one).
-- **With letters**: a monogram of one or two letters (available for all 262).
+- **With icon**: the real technology logo (currently 275 badges have one).
+- **With letters**: a monogram of one or two letters (available for all 287).
 
 These are plain SVG files: they live in the repository, don't depend on shields.io, and never break because of "unknown icons".
 
@@ -64,6 +64,7 @@ To make a badge a link, wrap it like this: `[![Python](badge-link)](https://pyth
 | Markdown | <img src="badges/with-icon/languages/markdown.svg" alt="Markdown" height="28" /> | <img src="badges/letters/languages/markdown.svg" alt="Markdown" height="28" /> |
 | YAML | <img src="badges/with-icon/languages/yaml.svg" alt="YAML" height="28" /> | <img src="badges/letters/languages/yaml.svg" alt="YAML" height="28" /> |
 | JSON | <img src="badges/with-icon/languages/json.svg" alt="JSON" height="28" /> | <img src="badges/letters/languages/json.svg" alt="JSON" height="28" /> |
+| Jupyter | <img src="badges/with-icon/languages/jupyter.svg" alt="Jupyter" height="28" /> | <img src="badges/letters/languages/jupyter.svg" alt="Jupyter" height="28" /> |
 
 <details><summary><b>Code: with icons</b> (one badge per line)</summary>
 
@@ -100,6 +101,7 @@ To make a badge a link, wrap it like this: `[![Python](badge-link)](https://pyth
 ![Markdown](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/markdown.svg)
 ![YAML](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/yaml.svg)
 ![JSON](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/json.svg)
+![Jupyter](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/jupyter.svg)
 ```
 
 </details>
@@ -140,6 +142,98 @@ To make a badge a link, wrap it like this: `[![Python](badge-link)](https://pyth
 ![Markdown](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/languages/markdown.svg)
 ![YAML](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/languages/yaml.svg)
 ![JSON](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/languages/json.svg)
+![Jupyter](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/languages/jupyter.svg)
+```
+
+</details>
+
+### Языки мира
+
+| Name | With icon | With letters |
+|---|---|---|
+| Russian | <img src="badges/with-icon/world-languages/russian.svg" alt="Russian" height="28" /> | <img src="badges/letters/world-languages/russian.svg" alt="Russian" height="28" /> |
+| English | <img src="badges/with-icon/world-languages/english.svg" alt="English" height="28" /> | <img src="badges/letters/world-languages/english.svg" alt="English" height="28" /> |
+| Spanish | <img src="badges/with-icon/world-languages/spanish.svg" alt="Spanish" height="28" /> | <img src="badges/letters/world-languages/spanish.svg" alt="Spanish" height="28" /> |
+| French | <img src="badges/with-icon/world-languages/french.svg" alt="French" height="28" /> | <img src="badges/letters/world-languages/french.svg" alt="French" height="28" /> |
+| German | <img src="badges/with-icon/world-languages/german.svg" alt="German" height="28" /> | <img src="badges/letters/world-languages/german.svg" alt="German" height="28" /> |
+| Italian | <img src="badges/with-icon/world-languages/italian.svg" alt="Italian" height="28" /> | <img src="badges/letters/world-languages/italian.svg" alt="Italian" height="28" /> |
+| Portuguese | <img src="badges/with-icon/world-languages/portuguese.svg" alt="Portuguese" height="28" /> | <img src="badges/letters/world-languages/portuguese.svg" alt="Portuguese" height="28" /> |
+| Chinese | <img src="badges/with-icon/world-languages/chinese.svg" alt="Chinese" height="28" /> | <img src="badges/letters/world-languages/chinese.svg" alt="Chinese" height="28" /> |
+| Japanese | <img src="badges/with-icon/world-languages/japanese.svg" alt="Japanese" height="28" /> | <img src="badges/letters/world-languages/japanese.svg" alt="Japanese" height="28" /> |
+| Korean | <img src="badges/with-icon/world-languages/korean.svg" alt="Korean" height="28" /> | <img src="badges/letters/world-languages/korean.svg" alt="Korean" height="28" /> |
+| Arabic | <img src="badges/with-icon/world-languages/arabic.svg" alt="Arabic" height="28" /> | <img src="badges/letters/world-languages/arabic.svg" alt="Arabic" height="28" /> |
+| Hindi | <img src="badges/with-icon/world-languages/hindi.svg" alt="Hindi" height="28" /> | <img src="badges/letters/world-languages/hindi.svg" alt="Hindi" height="28" /> |
+| Turkish | <img src="badges/with-icon/world-languages/turkish.svg" alt="Turkish" height="28" /> | <img src="badges/letters/world-languages/turkish.svg" alt="Turkish" height="28" /> |
+| Polish | <img src="badges/with-icon/world-languages/polish.svg" alt="Polish" height="28" /> | <img src="badges/letters/world-languages/polish.svg" alt="Polish" height="28" /> |
+| Ukrainian | <img src="badges/with-icon/world-languages/ukrainian.svg" alt="Ukrainian" height="28" /> | <img src="badges/letters/world-languages/ukrainian.svg" alt="Ukrainian" height="28" /> |
+| Dutch | <img src="badges/with-icon/world-languages/dutch.svg" alt="Dutch" height="28" /> | <img src="badges/letters/world-languages/dutch.svg" alt="Dutch" height="28" /> |
+| Swedish | <img src="badges/with-icon/world-languages/swedish.svg" alt="Swedish" height="28" /> | <img src="badges/letters/world-languages/swedish.svg" alt="Swedish" height="28" /> |
+| Vietnamese | <img src="badges/with-icon/world-languages/vietnamese.svg" alt="Vietnamese" height="28" /> | <img src="badges/letters/world-languages/vietnamese.svg" alt="Vietnamese" height="28" /> |
+| Indonesian | <img src="badges/with-icon/world-languages/indonesian.svg" alt="Indonesian" height="28" /> | <img src="badges/letters/world-languages/indonesian.svg" alt="Indonesian" height="28" /> |
+| Hebrew | <img src="badges/with-icon/world-languages/hebrew.svg" alt="Hebrew" height="28" /> | <img src="badges/letters/world-languages/hebrew.svg" alt="Hebrew" height="28" /> |
+| Greek | <img src="badges/with-icon/world-languages/greek.svg" alt="Greek" height="28" /> | <img src="badges/letters/world-languages/greek.svg" alt="Greek" height="28" /> |
+| Czech | <img src="badges/with-icon/world-languages/czech.svg" alt="Czech" height="28" /> | <img src="badges/letters/world-languages/czech.svg" alt="Czech" height="28" /> |
+| Thai | <img src="badges/with-icon/world-languages/thai.svg" alt="Thai" height="28" /> | <img src="badges/letters/world-languages/thai.svg" alt="Thai" height="28" /> |
+| Persian | <img src="badges/with-icon/world-languages/persian.svg" alt="Persian" height="28" /> | <img src="badges/letters/world-languages/persian.svg" alt="Persian" height="28" /> |
+
+<details><summary><b>Code: with icons</b> (one badge per line)</summary>
+
+```markdown
+![Russian](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/russian.svg)
+![English](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/english.svg)
+![Spanish](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/spanish.svg)
+![French](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/french.svg)
+![German](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/german.svg)
+![Italian](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/italian.svg)
+![Portuguese](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/portuguese.svg)
+![Chinese](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/chinese.svg)
+![Japanese](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/japanese.svg)
+![Korean](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/korean.svg)
+![Arabic](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/arabic.svg)
+![Hindi](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/hindi.svg)
+![Turkish](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/turkish.svg)
+![Polish](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/polish.svg)
+![Ukrainian](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/ukrainian.svg)
+![Dutch](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/dutch.svg)
+![Swedish](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/swedish.svg)
+![Vietnamese](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/vietnamese.svg)
+![Indonesian](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/indonesian.svg)
+![Hebrew](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/hebrew.svg)
+![Greek](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/greek.svg)
+![Czech](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/czech.svg)
+![Thai](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/thai.svg)
+![Persian](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/world-languages/persian.svg)
+```
+
+</details>
+
+<details><summary><b>Code: with letters</b> (one badge per line)</summary>
+
+```markdown
+![Russian](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/russian.svg)
+![English](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/english.svg)
+![Spanish](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/spanish.svg)
+![French](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/french.svg)
+![German](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/german.svg)
+![Italian](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/italian.svg)
+![Portuguese](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/portuguese.svg)
+![Chinese](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/chinese.svg)
+![Japanese](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/japanese.svg)
+![Korean](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/korean.svg)
+![Arabic](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/arabic.svg)
+![Hindi](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/hindi.svg)
+![Turkish](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/turkish.svg)
+![Polish](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/polish.svg)
+![Ukrainian](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/ukrainian.svg)
+![Dutch](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/dutch.svg)
+![Swedish](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/swedish.svg)
+![Vietnamese](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/vietnamese.svg)
+![Indonesian](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/indonesian.svg)
+![Hebrew](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/hebrew.svg)
+![Greek](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/greek.svg)
+![Czech](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/czech.svg)
+![Thai](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/thai.svg)
+![Persian](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/world-languages/persian.svg)
 ```
 
 </details>
@@ -1072,7 +1166,8 @@ To make a badge a link, wrap it like this: `[![Python](badge-link)](https://pyth
 ```text
 badges/
   with-icon/         # version with the real logo
-    languages/            # Languages (32)
+    languages/            # Languages (33)
+    world-languages/      # Языки мира (24)
     games/                # Games (14)
     genres/               # Жанры (25)
     engines/              # Engines (19)
@@ -1087,7 +1182,8 @@ badges/
     design-media/         # Design & media (14)
     platforms/            # Platforms & social (18)
   letters/           # version with letters (available for all)
-    languages/            # Languages (33)
+    languages/            # Languages (34)
+    world-languages/      # Языки мира (24)
     games/                # Games (14)
     genres/               # Жанры (25)
     engines/              # Engines (19)
